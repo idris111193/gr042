@@ -1,0 +1,6 @@
+git init - nitiazilation
+git git remote add origin - conection repozitories
+
+git add . - adding you job
+git commit -m 'dsad' -connection repozitories
+git push origin master - add and enter you repozitories
